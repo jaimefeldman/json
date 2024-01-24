@@ -1,1180 +1,538 @@
 {
-  "listadoNombres": [
-    {
-      "nombre": "Daniel",
-      "sexo": false
-    },
-    {
-      "nombre": "Hugo",
-      "sexo": false
-    },
-    {
-      "nombre": "Alejandro",
-      "sexo": false
-    },
-    {
-      "nombre": "Pablo",
-      "sexo": false
-    },
-    {
-      "nombre": "Alvaro",
-      "sexo": false
-    },
-    {
-      "nombre": "Adrian",
-      "sexo": false
-    },
-    {
-      "nombre": "David",
-      "sexo": false
-    },
-    {
-      "nombre": "Diego",
-      "sexo": false
-    },
-    {
-      "nombre": "Mario",
-      "sexo": false
-    },
-    {
-      "nombre": "Javier",
-      "sexo": false
-    },
-    {
-      "nombre": "Marcos",
-      "sexo": false
-    },
-    {
-      "nombre": "Manuel",
-      "sexo": false
-    },
-    {
-      "nombre": "Sergio",
-      "sexo": false
-    },
-    {
-      "nombre": "Nicolas",
-      "sexo": false
-    },
-    {
-      "nombre": "Lucas",
-      "sexo": false
-    },
-    {
-      "nombre": "Ivan",
-      "sexo": false
-    },
-    {
-      "nombre": "Carlos",
-      "sexo": false
-    },
-    {
-      "nombre": "Miguel",
-      "sexo": false
-    },
-    {
-      "nombre": "Jorge",
-      "sexo": false
-    },
-    {
-      "nombre": "Martin",
-      "sexo": false
-    },
-    {
-      "nombre": "Alex",
-      "sexo": false
-    },
-    {
-      "nombre": "Mateo",
-      "sexo": false
-    },
-    {
-      "nombre": "Gonzalo",
-      "sexo": false
-    },
-    {
-      "nombre": "Izan",
-      "sexo": false
-    },
-    {
-      "nombre": "Ruben",
-      "sexo": false
-    },
-    {
-      "nombre": "Antonio",
-      "sexo": false
-    },
-    {
-      "nombre": "Juan",
-      "sexo": false
-    },
-    {
-      "nombre": "Leo",
-      "sexo": false
-    },
-    {
-      "nombre": "Angel",
-      "sexo": false
-    },
-    {
-      "nombre": "Victor",
-      "sexo": false
-    },
-    {
-      "nombre": "Samuel",
-      "sexo": false
-    },
-    {
-      "nombre": "Raul",
-      "sexo": false
-    },
-    {
-      "nombre": "Hector",
-      "sexo": false
-    },
-    {
-      "nombre": "Gabriel",
-      "sexo": false
-    },
-    {
-      "nombre": "Eric",
-      "sexo": false
-    },
-    {
-      "nombre": "Guillermo",
-      "sexo": false
-    },
-    {
-      "nombre": "Rodrigo",
-      "sexo": false
-    },
-    {
-      "nombre": "Adam",
-      "sexo": false
-    },
-    {
-      "nombre": "Dario",
-      "sexo": false
-    },
-    {
-      "nombre": "Jesus",
-      "sexo": false
-    },
-    {
-      "nombre": "Jose",
-      "sexo": false
-    },
-    {
-      "nombre": "Aaron",
-      "sexo": false
-    },
-    {
-      "nombre": "Jaime",
-      "sexo": false
-    },
-    {
-      "nombre": "Pedro",
-      "sexo": false
-    },
-    {
-      "nombre": "Alberto",
-      "sexo": false
-    },
-    {
-      "nombre": "Bruno",
-      "sexo": false
-    },
-    {
-      "nombre": "Joel",
-      "sexo": false
-    },
-    {
-      "nombre": "Marco",
-      "sexo": false
-    },
-    {
-      "nombre": "Paulo",
-      "sexo": false
-    },
-    {
-      "nombre": "Luis",
-      "sexo": false
-    },
-    {
-      "nombre": "Oscar",
-      "sexo": false
-    },
-    {
-      "nombre": "Rafael",
-      "sexo": false
-    },
-    {
-      "nombre": "Mohamed",
-      "sexo": false
-    },
-    {
-      "nombre": "Fernando",
-      "sexo": false
-    },
-    {
-      "nombre": "Ismael",
-      "sexo": false
-    },
-    {
-      "nombre": "Andres",
-      "sexo": false
-    },
-    {
-      "nombre": "Erik",
-      "sexo": false
-    },
-    {
-      "nombre": "Gerardo",
-      "sexo": false
-    },
-    {
-      "nombre": "Ignacio",
-      "sexo": false
-    },
-    {
-      "nombre": "Alonso",
-      "sexo": false
-    },
-    {
-      "nombre": "Paul",
-      "sexo": false
-    },
-    {
-      "nombre": "Cristian",
-      "sexo": false
-    },
-    {
-      "nombre": "Oliver",
-      "sexo": false
-    },
-    {
-      "nombre": "Jonathan",
-      "sexo": false
-    },
-    {
-      "nombre": "Santiago",
-      "sexo": false
-    },
-    {
-      "nombre": "Marti",
-      "sexo": false
-    },
-    {
-      "nombre": "Miguel Angel",
-      "sexo": false
-    },
-    {
-      "nombre": "Nil",
-      "sexo": false
-    },
-    {
-      "nombre": "Jose Antonio",
-      "sexo": false
-    },
-    {
-      "nombre": "Isaac",
-      "sexo": false
-    },
-    {
-      "nombre": "Roberto",
-      "sexo": false
-    },
-    {
-      "nombre": "Aleix",
-      "sexo": false
-    },
-    {
-      "nombre": "Enrique",
-      "sexo": false
-    },
-    {
-      "nombre": "Eduardo",
-      "sexo": false
-    },
-    {
-      "nombre": "Ian",
-      "sexo": false
-    },
-    {
-      "nombre": "Jose Manuel",
-      "sexo": false
-    },
-    {
-      "nombre": "Jordi",
-      "sexo": false
-    },
-    {
-      "nombre": "Saul",
-      "sexo": false
-    },
-    {
-      "nombre": "Cesar",
-      "sexo": false
-    },
-    {
-      "nombre": "Omar",
-      "sexo": false
-    },
-    {
-      "nombre": "John",
-      "sexo": false
-    },
-    {
-      "nombre": "Hernan",
-      "sexo": false
-    },
-    {
-      "nombre": "Ricardo",
-      "sexo": false
-    },
-    {
-      "nombre": "Marcelo",
-      "sexo": false
-    },
-    {
-      "nombre": "Sebastian",
-      "sexo": false
-    },
-    {
-      "nombre": "Tomás",
-      "sexo": false
-    },
-    {
-      "nombre": "Thomas",
-      "sexo": false
-    },
-    {
-      "nombre": "Cristobal",
-      "sexo": false
-    },
-    {
-      "nombre": "Agusto",
-      "sexo": false
-    },
-    {
-      "nombre": "Agustin",
-      "sexo": false
-    },
-    {
-      "nombre": "Jasinto",
-      "sexo": false
-    },
-    {
-      "nombre": "Domingo",
-      "sexo": false
-    },
-    {
-      "nombre": "Ariel",
-      "sexo": false
-    },
-    {
-      "nombre": "Dominga",
-      "sexo": true
-    },
-    {
-      "nombre": "Jasinta",
-      "sexo": true
-    },
-    {
-      "nombre": "Josefina",
-      "sexo": true
-    },
-    {
-      "nombre": "Josefa",
-      "sexo": true
-    },
-    {
-      "nombre": "Mabel",
-      "sexo": true
-    },
-    {
-      "nombre": "Maribel",
-      "sexo": true
-    },
-    {
-      "nombre": "Constanza",
-      "sexo": true
-    },
-    {
-      "nombre": "Esperanza",
-      "sexo": true
-    },
-    {
-      "nombre": "Mijal",
-      "sexo": true
-    },
-    {
-      "nombre": "Yael",
-      "sexo": true
-    },
-    {
-      "nombre": "Ema",
-      "sexo": true
-    },
-    {
-      "nombre": "Emilia",
-      "sexo": true
-    },
-    {
-      "nombre": "Liliana",
-      "sexo": true
-    },
-    {
-      "nombre": "Elvira",
-      "sexo": true
-    },
-    {
-      "nombre": "Silvana",
-      "sexo": true
-    },
-    {
-      "nombre": "Cecilia",
-      "sexo": true
-    },
-    {
-      "nombre": "Pilar",
-      "sexo": true
-    },
-    {
-      "nombre": "Marcela",
-      "sexo": true
-    },
-    {
-      "nombre": "Marcia",
-      "sexo": true
-    },
-    {
-      "nombre": "Lucia",
-      "sexo": true
-    },
-    {
-      "nombre": "Maria",
-      "sexo": true
-    },
-    {
-      "nombre": "Paula",
-      "sexo": true
-    },
-    {
-      "nombre": "Daniela",
-      "sexo": true
-    },
-    {
-      "nombre": "Sara",
-      "sexo": true
-    },
-    {
-      "nombre": "Carla",
-      "sexo": true
-    },
-    {
-      "nombre": "Martina",
-      "sexo": true
-    },
-    {
-      "nombre": "Sofia",
-      "sexo": true
-    },
-    {
-      "nombre": "Julia",
-      "sexo": true
-    },
-    {
-      "nombre": "Valeria",
-      "sexo": true
-    },
-    {
-      "nombre": "Claudia",
-      "sexo": true
-    },
-    {
-      "nombre": "Irene",
-      "sexo": true
-    },
-    {
-      "nombre": "Marta",
-      "sexo": true
-    },
-    {
-      "nombre": "Laura",
-      "sexo": true
-    },
-    {
-      "nombre": "Noa",
-      "sexo": true
-    },
-    {
-      "nombre": "Carmen",
-      "sexo": true
-    },
-    {
-      "nombre": "Adriana",
-      "sexo": true
-    },
-    {
-      "nombre": "Elena",
-      "sexo": true
-    },
-    {
-      "nombre": "Ana",
-      "sexo": true
-    },
-    {
-      "nombre": "Emma",
-      "sexo": true
-    },
-    {
-      "nombre": "Alejandra",
-      "sexo": true
-    },
-    {
-      "nombre": "Nerea",
-      "sexo": true
-    },
-    {
-      "nombre": "Marina",
-      "sexo": true
-    },
-    {
-      "nombre": "Oriana",
-      "sexo": true
-    },
-    {
-      "nombre": "Ines",
-      "sexo": true
-    },
-    {
-      "nombre": "Laia",
-      "sexo": true
-    },
-    {
-      "nombre": "Andrea",
-      "sexo": true
-    },
-    {
-      "nombre": "Rocio",
-      "sexo": true
-    },
-    {
-      "nombre": "Ainara",
-      "sexo": true
-    },
-    {
-      "nombre": "Angela",
-      "sexo": true
-    },
-    {
-      "nombre": "Carlota",
-      "sexo": true
-    },
-    {
-      "nombre": "Jimena",
-      "sexo": true
-    },
-    {
-      "nombre": "Lola",
-      "sexo": true
-    },
-    {
-      "nombre": "Candela",
-      "sexo": true
-    },
-    {
-      "nombre": "Natalia",
-      "sexo": true
-    },
-    {
-      "nombre": "Celia",
-      "sexo": true
-    },
-    {
-      "nombre": "Valentina",
-      "sexo": true
-    },
-    {
-      "nombre": "Alicia",
-      "sexo": true
-    },
-    {
-      "nombre": "Leire",
-      "sexo": true
-    },
-    {
-      "nombre": "Blanca",
-      "sexo": true
-    },
-    {
-      "nombre": "Nora",
-      "sexo": true
-    },
-    {
-      "nombre": "Eva",
-      "sexo": true
-    },
-    {
-      "nombre": "Clara",
-      "sexo": true
-    },
-    {
-      "nombre": "Cristina",
-      "sexo": true
-    },
-    {
-      "nombre": "Victoria",
-      "sexo": true
-    },
-    {
-      "nombre": "Olivia",
-      "sexo": true
-    },
-    {
-      "nombre": "Carolina",
-      "sexo": true
-    },
-    {
-      "nombre": "Noelia",
-      "sexo": true
-    },
-    {
-      "nombre": "Isabel",
-      "sexo": true
-    },
-    {
-      "nombre": "Alma",
-      "sexo": true
-    },
-    {
-      "nombre": "Lara",
-      "sexo": true
-    },
-    {
-      "nombre": "Abril",
-      "sexo": true
-    },
-    {
-      "nombre": "Elsa",
-      "sexo": true
-    },
-    {
-      "nombre": "Miriam",
-      "sexo": true
-    },
-    {
-      "nombre": "Gabriela",
-      "sexo": true
-    },
-    {
-      "nombre": "Naiara",
-      "sexo": true
-    },
-    {
-      "nombre": "Silvia",
-      "sexo": true
-    },
-    {
-      "nombre": "Berta",
-      "sexo": true
-    },
-    {
-      "nombre": "Helena",
-      "sexo": true
-    },
-    {
-      "nombre": "Sandra",
-      "sexo": true
-    },
-    {
-      "nombre": "Erika",
-      "sexo": true
-    },
-    {
-      "nombre": "Naia",
-      "sexo": true
-    },
-    {
-      "nombre": "Manuela",
-      "sexo": true
-    },
-    {
-      "nombre": "Iria",
-      "sexo": true
-    },
-    {
-      "nombre": "Raquel",
-      "sexo": true
-    },
-    {
-      "nombre": "Mireia",
-      "sexo": true
-    },
-    {
-      "nombre": "Paola",
-      "sexo": true
-    },
-    {
-      "nombre": "Mara",
-      "sexo": true
-    },
-    {
-      "nombre": "Anna",
-      "sexo": true
-    },
-    {
-      "nombre": "Alexia",
-      "sexo": true
-    },
-    {
-      "nombre": "Nayara",
-      "sexo": true
-    },
-    {
-      "nombre": "Patricia",
-      "sexo": true
-    },
-    {
-      "nombre": "Zoe",
-      "sexo": true
-    },
-    {
-      "nombre": "Nahia",
-      "sexo": true
-    },
-    {
-      "nombre": "Diana",
-      "sexo": true
-    },
-    {
-      "nombre": "Nadia",
-      "sexo": true
-    },
-    {
-      "nombre": "Iris",
-      "sexo": true
-    },
-    {
-      "nombre": "Jana",
-      "sexo": true
-    },
-    {
-      "nombre": "Ane",
-      "sexo": true
-    },
-    {
-      "nombre": "Lidia",
-      "sexo": true
-    },
-    {
-      "nombre": "Chloe",
-      "sexo": true
-    },
-    {
-      "nombre": "Luna",
-      "sexo": true
-    },
-    {
-      "nombre": "Ermita",
-      "sexo": true
-    },
-    {
-      "nombre": "Aida",
-      "sexo": true
-    },
-    {
-      "nombre": "Paulina",
-      "sexo": true
-    },
-    {
-      "nombre": "Beatriz",
-      "sexo": true
-    },
-    {
-      "nombre": "Ignacia",
-      "sexo": true
-    },
-    {
-      "nombre": "Florencia",
-      "sexo": true
-    },
-    {
-      "nombre": "Karin",
-      "sexo": true
-    },
-    {
-      "nombre": "Karen",
-      "sexo": true
-    },
-    {
-      "nombre": "Ariela",
-      "sexo": true
-    },
-    {
-      "nombre": "Adela",
-      "sexo": true
-    },
-    {
-      "nombre": "Denise",
-      "sexo": true
-    },
-    {
-      "nombre": "Ana Maria",
-      "sexo": true
-    },
-    {
-      "nombre": "Ena",
-      "sexo": true
-    },
-    {
-      "nombre": "Eliza",
-      "sexo": true
-    },
-    {
-      "nombre": "Lorena",
-      "sexo": true
-    },
-    {
-      "nombre": "Ramon",
-      "sexo": false
-    },
-    {
-      "nombre": "Francisco",
-      "sexo": false
-    },
-    {
-      "nombre": "Elias",
-      "sexo": false
-    },
-    {
-      "nombre": "Geronimo",
-      "sexo": false
-    },
-    {
-      "nombre": "Patricio",
-      "sexo": false
-    },
-    {
-      "nombre": "Mercedes",
-      "sexo": true
-    },
-    {
-      "nombre": "Arturo",
-      "sexo": false
-    },
-    {
-      "nombre": "Benjamín",
-      "sexo": false
-    },
-    {
-      "nombre": "Vicente",
-      "sexo": false
-    },
-    {
-      "nombre": "Matías",
-      "sexo": false
-    },
-    {
-      "nombre": "Maximiliano",
-      "sexo": false
-    },
-    {
-      "nombre": "Felipe",
-      "sexo": false
-    },
-    {
-      "nombre": "Bastian",
-      "sexo": false
-    },
-    {
-      "nombre": "Gaspar",
-      "sexo": false
-    },
-    {
-      "nombre": "Gaston",
-      "sexo": false
-    },
-    {
-      "nombre": "Emilio",
-      "sexo": false
-    },
-    {
-      "nombre": "Esteban",
-      "sexo": false
-    },
-    {
-      "nombre": "Camilo",
-      "sexo": false
-    },
-    {
-      "nombre": "Amaro",
-      "sexo": false
-    },
-    {
-      "nombre": "Luciano",
-      "sexo": false
-    },
-    {
-      "nombre": "Damian",
-      "sexo": false
-    },
-    {
-      "nombre": "Alexis",
-      "sexo": false
-    },
-    {
-      "nombre": "Fabian",
-      "sexo": false
-    },
-    {
-      "nombre": "Julian",
-      "sexo": false
-    },
-    {
-      "nombre": "Dante",
-      "sexo": false
-    },
-    {
-      "nombre": "Alan",
-      "sexo": false
-    },
-    {
-      "nombre": "Leon",
-      "sexo": false
-    },
-    {
-      "nombre": "Gustavo",
-      "sexo": false
-    },
-    {
-      "nombre": "Leonardo",
-      "sexo": false
-    },
-    {
-      "nombre": "Leandro",
-      "sexo": false
-    },
-    {
-      "nombre": "Emiliano",
-      "sexo": false
-    },
-    {
-      "nombre": "Angelo",
-      "sexo": false
-    },
-    {
-      "nombre": "Moisés",
-      "sexo": false
-    },
-    {
-      "nombre": "Enzo",
-      "sexo": false
-    },
-    {
-      "nombre": "Raimundo",
-      "sexo": false
-    },
-    {
-      "nombre": "Baltazar",
-      "sexo": false
-    },
-    {
-      "nombre": "Aníbal",
-      "sexo": false
-    },
-    {
-      "nombre": "Julio",
-      "sexo": false
-    },
-    {
-      "nombre": "Salvador",
-      "sexo": false
-    },
-    {
-      "nombre": "Abraham",
-      "sexo": false
-    },
-    {
-      "nombre": "Hans",
-      "sexo": false
-    },
-    {
-      "nombre": "Darío",
-      "sexo": false
-    },
-    {
-      "nombre": "Michael",
-      "sexo": false
-    },
-    {
-      "nombre": "Emanuel",
-      "sexo": false
-    },
-    {
-      "nombre": "Nelson",
-      "sexo": false
-    },
-    {
-      "nombre": "Octavio",
-      "sexo": false
-    },
-    {
-      "nombre": "Lorenzo",
-      "sexo": false
-    },
-    {
-      "nombre": "Piero",
-      "sexo": false
-    },
-    {
-      "nombre": "Mariano",
-      "sexo": false
-    },
-    {
-      "nombre": "Danilo",
-      "sexo": false
-    },
-    {
-      "nombre": "Edgar",
-      "sexo": false
-    },
-    {
-      "nombre": "Alfredo",
-      "sexo": false
-    },
-    {
-      "nombre": "Paolo",
-      "sexo": false
-    },
-    {
-      "nombre": "Edison",
-      "sexo": false
-    },
-    {
-      "nombre": "Osvaldo",
-      "sexo": false
-    },
-    {
-      "nombre": "Rene",
-      "sexo": false
-    },
-    {
-      "nombre": "Bernardo",
-      "sexo": false
-    },
-    {
-      "nombre": "Boris",
-      "sexo": false
-    },
-    {
-      "nombre": "Patrick",
-      "sexo": false
-    },
-    {
-      "nombre": "Abel",
-      "sexo": false
-    },
-    {
-      "nombre": "Ronald",
-      "sexo": false
-    },
-    {
-      "nombre": "Iván",
-      "sexo": false
-    },
-    {
-      "nombre": "Wilson",
-      "sexo": false
-    },
-    {
-      "nombre": "Ernesto",
-      "sexo": false
-    },
-    {
-      "nombre": "Aldo",
-      "sexo": false
-    },
-    {
-      "nombre": "Italo",
-      "sexo": false
-    },
-    {
-      "nombre": "Gerson",
-      "sexo": false
-    },
-    {
-      "nombre": "Federico",
-      "sexo": false
-    },
-    {
-      "nombre": "Xavier",
-      "sexo": false
-    },
-    {
-      "nombre": "Braulio",
-      "sexo": false
-    },
-    {
-      "nombre": "Franco",
-      "sexo": false
-    },
-    {
-      "nombre": "Gino",
-      "sexo": false
-    },
-    {
-      "nombre": "Tiago",
-      "sexo": false
-    },
-    {
-      "nombre": "Roger",
-      "sexo": false
-    },
-    {
-      "nombre": "Reinaldo",
-      "sexo": false
-    },
-    {
-      "nombre": "Eliseo",
-      "sexo": false
-    },
-    {
-      "nombre": "Armando",
-      "sexo": false
-    },
-    {
-      "nombre": "Jordano",
-      "sexo": false
-    },
-    {
-      "nombre": "Benny",
-      "sexo": false
-    },
-    {
-      "nombre": "Edwin",
-      "sexo": false
-    },
-    {
-      "nombre": "Humberto",
-      "sexo": false
-    },
-    {
-      "nombre": "Eugenio",
-      "sexo": false
-    },
-    {
-      "nombre": "Pelayo",
-      "sexo": false
-    },
-    {
-      "nombre": "Milton",
-      "sexo": false
-    },
-    {
-      "nombre": "Rafaela",
-      "sexo": true
-    }
-  ]
+	"nombres": {
+		"hombre": [
+					"arón",
+					"abel",
+					"adolfo",
+					"adonai",
+					"adrián",
+					"agustín",
+					"alberto",
+					"aldo",
+					"alejandro",
+					"alfonso",
+					"alfredo",
+					"allan",
+					"alonso",
+					"álvaro",
+					"andrés",
+					"ángel",
+					"antonio",
+					"arturo",
+					"benjamín",
+					"borja",
+					"braulio",
+					"bruno",
+					"camilo",
+					"carlos",
+					"cayetano",
+					"césar",
+					"claudio",
+					"cristian",
+					"cristóbal",
+					"damián",
+					"daniel",
+					"darío",
+					"david",
+					"diego",
+					"eduardo",
+					"elián",
+					"elias",
+					"enrique",
+					"erik",
+					"ernesto",
+					"fabián",
+					"federico",
+					"felipe",
+					"félix",
+					"fernando",
+					"fidel",
+					"francisco",
+					"gabriel",
+					"gerard",
+					"germán",
+					"gonzalo",
+					"gregorio",
+					"guido",
+					"guillermo",
+					"gustavo",
+					"héctor",
+					"hernán",
+					"hugo",
+					"humberto",
+					"ignacio",
+					"isaac",
+					"iván",
+					"jacobo",
+					"jaime",
+					"javier",
+					"jesús",
+					"joaquín",
+					"jonathan",
+					"jorge",
+					"josé",
+					"juan",
+					"julio",
+					"leo",
+					"leonardo",
+					"lucas",
+					"luis",
+					"manuel",
+					"marcelo",
+					"marco",
+					"mariano",
+					"mario",
+					"martín",
+					"mateo",
+					"matías",
+					"mauricio",
+					"michelle",
+					"miguel",
+					"néstor",
+					"nicolás",
+					"óliver",
+					"omar",
+					"óscar",
+					"pablo",
+					"patricio",
+					"pedro",
+					"rafael",
+					"raúl",
+					"ricardo",
+					"roberto",
+					"rodolfo",
+					"rodrigo",
+					"román",
+					"rubén",
+					"samuel",
+					"santiago",
+					"saúl",
+					"sebastián",
+					"sergio",
+					"simón",
+					"tomás",
+					"vicente",
+					"víctor"
+		],
+		"mujer":[
+					"abigail",
+					"adriana",
+					"agustina",
+					"alejandra",
+					"alexandra",
+					"alicia",
+					"alison",
+					"amanda",
+					"amaya",
+					"ámbar",
+					"amelia",
+					"amparo",
+					"ana",
+					"anahí",
+					"anastasia",
+					"andrea",
+					"angela",
+					"angélica",
+					"antonella",
+					"antonia",
+					"ariana",
+					"aurora",
+					"bárbara",
+					"beatriz",
+					"belén",
+					"bianca",
+					"blanca",
+					"camila",
+					"carla",
+					"carolina",
+					"catalina",
+					"cecilia",
+					"celeste",
+					"clara",
+					"claudia",
+					"colomba",
+					"constanza",
+					"consuelo",
+					"cristina",
+					"dafne",
+					"daniela",
+					"debora",
+					"denisse",
+					"diana",
+					"dominga",
+					"dominique",
+					"elena",
+					"elisa",
+					"elizabeth",
+					"eloísa",
+					"ema",
+					"emilia",
+					"emily",
+					"emma",
+					"esmeralda",
+					"esperanza",
+					"estefanía",
+					"estela",
+					"estrella",
+					"evelyn",
+					"fabiola",
+					"fernanda",
+					"florencia",
+					"francesca",
+					"francisca",
+					"gabriela",
+					"helen",
+					"helena",
+					"ignacia",
+					"irene",
+					"isabel",
+					"isabella",
+					"isidora",
+					"javiera",
+					"josefa",
+					"josefina",
+					"julia",
+					"juliana",
+					"julieta",
+					"karen",
+					"karina",
+					"katherine",
+					"laura",
+					"leonor",
+					"liliana",
+					"lorena",
+					"loreto",
+					"lucía",
+					"luciana",
+					"luisa",
+					"luna",
+					"luz",
+					"mabel",
+					"macarena",
+					"madelaine",
+					"madeleine",
+					"magdalena",
+					"maida",
+					"maira",
+					"maite",
+					"manuela",
+					"marcela",
+					"margarita",
+					"maria",
+					"mariana",
+					"maribel",
+					"martina",
+					"matilda",
+					"matilde",
+					"maura",
+					"mayra",
+					"melanie",
+					"michelle",
+					"mónica",
+					"monserrat",
+					"natalia",
+					"nicole",
+					"noe",
+					"noelia",
+					"noemi",
+					"noemí",
+					"norma",
+					"olivia",
+					"paloma",
+					"pamela",
+					"paola",
+					"pascal",
+					"patricia",
+					"paula",
+					"paulina",
+					"paz",
+					"pía",
+					"pilar",
+					"rafaela",
+					"raquel",
+					"rayen",
+					"rebeca",
+					"renata",
+					"rocio",
+					"rocío",
+					"romina",
+					"rosa",
+					"rosario",
+					"sara",
+					"silvia",
+					"sofía",
+					"sonia",
+					"susana",
+					"tamara",
+					"tania",
+					"tatiana",
+					"trinidad",
+					"valentina",
+					"vanessa",
+					"verónica",
+					"victoria",
+					"violeta",
+					"viviana",
+					"ximena",
+					"zoe"
+
+				],
+		"apellidos":{
+			"chilenos":[
+				"aguilera",
+				"alarcón",
+				"alvarado",
+				"álvarez",
+				"aravena",
+				"araya",
+				"bravo",
+				"bustamante",
+				"bustos",
+				"cáceres",
+				"campos",
+				"cárdenas",
+				"carrasco",
+				"carvajal",
+				"castillo",
+				"castro",
+				"contreras",
+				"cortés",
+				"díaz",
+				"donoso",
+				"escobar",
+				"espinoza",
+				"farías",
+				"fernández",
+				"figueroa",
+				"flores",
+				"fuentes",
+				"gallardo",
+				"garcía",
+				"garrido",
+				"godoy",
+				"gómez",
+				"gonzález",
+				"guerrero",
+				"gutiérrez",
+				"guzmán",
+				"henríquez",
+				"hernández",
+				"herrera",
+				"jara",
+				"jiménez",
+				"lagos",
+				"leiva",
+				"lópez",
+				"maldonado",
+				"martínez",
+				"medina",
+				"miranda",
+				"molina",
+				"morales",
+				"moreno",
+				"muñoz",
+				"navarrete",
+				"navarro",
+				"núñez",
+				"olivares",
+				"orellana",
+				"ortega",
+				"ortiz",
+				"palma",
+				"paredes",
+				"parra",
+				"peña",
+				"pérez",
+				"pino",
+				"pizarro",
+				"poblete",
+				"ramírez",
+				"reyes",
+				"riquelme",
+				"rivera",
+				"rodríguez",
+				"rojas",
+				"romero",
+				"ruiz",
+				"saavedra",
+				"sáez",
+				"salazar",
+				"salinas",
+				"san martín",
+				"sánchez",
+				"sandoval",
+				"sanhueza",
+				"sepúlveda",
+				"silva",
+				"soto",
+				"tapia",
+				"toro",
+				"torres",
+				"valdés",
+				"valenzuela",
+				"vargas",
+				"vásquez",
+				"vega",
+				"venegas",
+				"vera",
+				"vergara",
+				"vidal",
+				"yañez",
+				"zúñiga"
+			]
+		},
+		"profeciones":[
+				"abogado",
+				"actor",
+				"actriz",
+				"agente de viajes",
+				"arquitecto",
+				"astrónomo",
+				"autor",
+				"barrendero",
+				"bibliotecario",
+				"bombero",
+				"carabinero",
+				"cartero",
+				"carnicero",
+				"carpintero",
+				"científico",
+				"conductor",
+				"contador",
+				"chef",
+				"dentista ",
+				"diseñador",
+				"doctor",
+				"electricista ",
+				"enfermero",
+				"estilista",
+				"farmacéutico",
+				"gásfiter",
+				"granjero",
+				"jardinero",
+				"juez",
+				"júnior",
+				"lector",
+				"limpiador vidrios",
+				"maestro",
+				"mecánico",
+				"modelo",
+				"oftalmólogo",
+				"panadero",
+				"periodista",
+				"pescador",
+				"pintor",
+				"piloto",
+				"plomero",
+				"policía",
+				"político",
+				"profesor",
+				"psiquiatra",
+				"psicologo",
+				"recepcionista",
+				"salvavidas",
+				"sastre",
+				"secretario",
+				"soldado",
+				"taxista",
+				"trabajador social",
+				"traductor",
+				"traductor",
+				"vendedor",
+				"veterinario"
+	
+		]
+		
+	},
+	
+	"signos":{
+		"zodiaco":[
+			{
+				"signo"    : "aries",
+				"inicio"   : "21/3",
+				"fin"	   : "20/4",
+				"planeta"  : "marte",
+				"elemento" : "fuego"
+			},
+			{
+				"signo"		: "tauro",
+				"inicio"	: "21/4",
+				"fin"		: "20/5",
+				"planeta"	: "venus",
+				"elemento"	: "tierra"
+			},
+			{
+				"signo"		: "gémenis",
+				"inicio"	: "mercurio",
+				"fin"		: "21/5",
+				"planeta"	: "21/6",
+				"elemento"	: "aire"
+			},
+			{
+				"signo"		: "cáncer",
+				"inicio"	: "22/6",
+				"fin"		: "22/7",
+				"planeta"	: "luna",
+				"elemento"	: "agua"
+			},
+			{
+				"signo"		: "leo",
+				"inicio"	: "24/7",
+				"fin"		: "23/8",
+				"planeta"	: "sol",
+				"elemento"	: "fuego"
+			},
+			{
+				"signo"		: "virgo",
+				"inicio"	: "24/8",
+				"fin"		: "23/9",
+				"planeta"	: "mercurio",
+				"elemento"	: "tierra"
+			},
+			{
+				"signo"		: "libra",
+				"inicio"	: "24/9",
+				"fin"		: "22/10",
+				"planeta"	: "venus",
+				"elemento"	: "aire"
+			},
+			{
+				"signo"		: "escorpio",
+				"inicio"	: "23/10",
+				"fin"		: "22/11",
+				"planeta"	: "plutón",
+				"elemento"	: "agua"
+			},
+			{
+				"signo"		: "sagitario",
+				"inicio"	: "23/11",
+				"fin"		: "21/12",
+				"planeta"	: "júpiter",
+				"elemento"	: "fuego"
+			},
+			{
+				"signo"		: "capricornio",
+				"inicio"	: "22/12",
+				"fin"		: "19/1",
+				"planeta"	: "saturno",
+				"elemento"	: "tierra"
+			},
+			{
+				"signo"		: "acuario",
+				"inicio"	: "20/1",
+				"fin"		: "19/2",
+				"planeta"	: "urano",
+				"elemento"	: "aire"
+			},
+			{
+				"signo"		: "piscis",
+				"inicio"	: "20/2",
+				"fin"		: "20/3",
+				"planeta"	: "neptuno",
+				"elemento"	: "agua"
+			}
+			
+		]
+	}
 }
+

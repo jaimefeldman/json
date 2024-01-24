@@ -1,29 +1,22 @@
 import json
 
-def cargar_datos_desde_archivo(nombre_archivo):
-    try:
-        with open(nombre_archivo, 'r') as archivo:
-            datos = json.load(archivo)
-            return datos
-    except FileNotFoundError:
-        print(f"No se pudo encontrar el archivo: {nombre_archivo}")
-        return None
-    except json.JSONDecodeError as e:
-        print(f"Error al decodificar el archivo JSON: {e}")
-        return None
+# Lee el archivo JSON
+with open('nombres.json', 'r') as file:
+    data = json.load(file)
 
-# Uso de la función para cargar datos desde un archivo JSON
-nombre_archivo = "nombres.json"  # Reemplaza con el nombre real de tu archivo JSON
-datos = cargar_datos_desde_archivo(nombre_archivo)
+# Accede a la lista de nombres de hombres
+nombres_hombres = data["nombres"]["hombre"]
+nombres_mujeres = data["nombres"]["mujer"]
+apellidos_chilenos = data["nombres"]["apellidos"]["chilenos"]
+profeciones = data["nombres"]["profeciones"]
 
-if datos and "listadoNombres" in datos:
-    # Acceder a los datos cargados
-    listado_nombres = datos["listadoNombres"]
+# Imprime los nombres de hombres
+print("Nombres de hombres:")
+for nombre in nombres_hombres:
+    print(nombre)
 
-    # Imprimir algunos datos como ejemplo
-    print("Nombres:")
-    for nombre_info in listado_nombres:
-        print(nombre_info["nombre"], " - Sexo:", "Mujer" if nombre_info["sexo"] else "Hombre")
-else:
-    print("No se cargaron datos desde el archivo.")
+for apellidos in apellidos_chilenos:
+    print(apellidos)
 
+for profecion in profeciones:
+    print(profecion)
