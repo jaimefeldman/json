@@ -1,4 +1,4 @@
-import json
+import json, random
 
 # Lee el archivo JSON
 with open('nombres.json', 'r') as file:
@@ -20,3 +20,6 @@ for apellidos in apellidos_chilenos:
 
 for profecion in profeciones:
     print(profecion)
+
+# Impriemiendo elementos de forma aleatoria.
+print(f"nombre: {''.join(random.choices(nombres_hombres))} apellido: {''.join(random.choices(apellidos_chilenos))}")
